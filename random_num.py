@@ -11,3 +11,5 @@ print("to this time, the random nums have been product")
 print("i have commit my newly edition code to the github! ")
 
 print("what's going on")
+
+# 哈哈
